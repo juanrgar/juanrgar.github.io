@@ -11,3 +11,11 @@ img.logo {
 img.invert {
     filter: invert(1);
 }
+
+#social-media {
+    text-align: right;
+}
+
+#social-media > a {
+    color: $header;
+}
