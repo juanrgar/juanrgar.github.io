@@ -1,0 +1,13 @@
+---
+---
+
+@import 'jekyll-theme-hacker';
+
+img.logo {
+    width: 48pt;
+    height: auto;
+}
+
+img.invert {
+    filter: invert(1);
+}
