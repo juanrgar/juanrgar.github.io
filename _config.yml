@@ -1,1 +1,11 @@
 theme: jekyll-theme-hacker
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+title: juanrgar
+description: Juan R. García Blanco's Personal Page
+show_downloads: false
+show_repository_link: false
