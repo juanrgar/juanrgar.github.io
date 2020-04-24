@@ -25,4 +25,4 @@ I will go through every line. Let's start with the first one:
 
 First of all, ;; introduces a comment in elisp.
 
-To be continued...
+Then, it comes the *when* macro [0], which has the form *(when condition a b c)*. What it does is to execute the expressions following the condition, if the condition evaluates to true. The condition is *(eq system-type 'darwin)*.
