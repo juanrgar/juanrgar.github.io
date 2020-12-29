@@ -1,3 +1,3 @@
-[submodule "chip8"]
-	path = chip8
-	url = https://github.com/juanrgar/chip8emu-js.git
+[submodule "chip8emu"]
+	path = chip8emu
+	url = git@github.com:juanrgar/chip8emu-js.git
