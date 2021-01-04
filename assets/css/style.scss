@@ -6,6 +6,7 @@
 img.logo {
     width: 48pt;
     height: auto;
+    margin-bottom: 10px;
 }
 
 img.invert {
@@ -14,8 +15,13 @@ img.invert {
 
 #social-media {
     text-align: right;
+    margin: 0 auto;
 }
 
 #social-media > a {
     color: $header;
+}
+
+#subtitle {
+    margin: 0 auto;
 }
