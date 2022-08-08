@@ -6,7 +6,7 @@ plugins:
   - jekyll-seo-tag
 
 title: juanrgar
-description: Juan R. García Blanco's Personal Page
+description: Juan García Blanco's Personal Page
 show_downloads: false
 show_repository_link: false
 google_analytics: G-27R8CZWR9B
